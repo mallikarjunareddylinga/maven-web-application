@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.111.150.161:8081/repository/waimart-snapshot//</url>
+	      <url>http://3.111.150.161:8081/repository/waimart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
